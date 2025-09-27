@@ -1,0 +1,13 @@
+Teraform:
+
+Provider: in tereform is a cloud provided , its like a plugin to apply itself to that cloud Provider
+
+Variable: is like a setting or parameter that controls your deployment
+
+Resource: faundamental building block of your infrastructure for example s3 bucket
+
+State: its a teraform understanding what you actually have deployed on your live infrastructure, they are stored in private variables
+
+Output: like actual Cloudfront distrbution url
+
+Workspace: allow to have completely isloated box of states

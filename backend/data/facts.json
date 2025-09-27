@@ -1,0 +1,150 @@
+{
+  "name": "Talha",
+  "full_name": "Talha Umar",
+  "contact": {
+    "email": "talhaumar097@gmail.com",
+    "phone": "0314-8544269",
+    "address": "Faisalabad-Sheikhupura Road, Al Qadir Garden, A-48",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/talha-umar-38697937b/",
+      "github": "https://github.com/talhaumercop",
+      "huggingface": "https://huggingface.co/talhafewfefefew",
+      "x": "https://x.com/TlahaUamr95159"
+    }
+  },
+  "summary": [
+    "AI Engineer and Software Engineering student with a strong foundation in front-end development, 3D web technologies, and advanced AI/LLM integration. I build real-world applications using React, Three.js, and various JavaScript frameworks.",
+    "My expertise lies in Generative AI and Agentic AI, where I've experimented with over 20 Frontier and Open-Source models, leveraging HuggingFace, LangChain, LangGraph, and Gradio. I specialize in RAG implementation, QLoRA fine-tuning, and developing autonomous multi-modal AI agents using CrewAI and advanced orchestration frameworks."
+  ],
+  "technicalSkills": {
+    "frontend": ["HTML5", "CSS", "Tailwind CSS", "Bootstrap", "JavaScript", "React", "Next.js", "Three.js", "React Three Fiber", "GLSL", "Blender", "Git", "GitHub", "TypeScript"],
+    "backend": ["MongoDB", "Appwrite"],
+    "3d_physics": ["React Three Rapier", "Cannon.js"],
+    "ai_ml": ["Python", "Generative AI", "Agentic AI", "CrewAI", "OpenAI SDKs", "LangGraph", "LangChain", "LangSmith", "MCP", "HuggingFace", "Gradio", "RAG", "QLoRA", "Model Training", "Fine-tuning", "AI Agents", "Autonomous Workflows", "Vector Embeddings", "Vector Datastores", "Model Optimization", "C++ Optimization", "Autonomous Multi-agent Systems"]
+  },
+  "education": [
+    {
+      "degree": "BS in Software Engineering",
+      "institution": "Government College University Faisalabad (GCUF)",
+      "period": "2024–2028",
+      "details": "CGPA: 3.4, 2nd Semester"
+    },
+    {
+      "level": "Intermediate",
+      "stream": "FSc Pre-Engineering",
+      "score": "900/1100"
+    },
+    {
+      "level": "Matriculation",
+      "score": "962/1100"
+    }
+  ],
+  "certificates": {
+    "professional": [
+      {
+        "name": "LLM Engineering",
+        "instructor": "Ed Donner"
+      },
+      {
+        "name": "Agentic AI",
+        "instructor": "Ed Donner"
+      },
+      {
+        "name": "Web Development",
+        "instructor": "Hitesh Chaudhary"
+      },
+      {
+        "name": "Three.js",
+        "instructor": "Da Pang"
+      }
+    ],
+    "udemy": [
+      "https://www.udemy.com/certificate/UC-e18a386d-8e87-486a-a6a6-12057d7538bb/",
+      "https://www.udemy.com/certificate/UC-ee1cdd34-6056-458d-81f4-f25717d654c7/",
+      "https://www.udemy.com/certificate/UC-6bcf6762-2f5b-4bec-8ee9-00444d678663/",
+      "https://www.udemy.com/certificate/UC-e1926b2e-ae42-4b7f-966a-60301ef6263c/"
+    ]
+  },
+  "projects": {
+    "web": [
+      {
+        "name": "3D Game",
+        "technologies": ["Three.js", "Blender"]
+      },
+      {
+        "name": "Blob Mixer",
+        "technologies": ["Three.js", "GLSL"]
+      },
+      {
+        "name": "Devebco",
+        "technologies": ["Three.js", "GLSL"]
+      },
+      {
+        "name": "Zajno Clone",
+        "technologies": ["Three.js", "GLSL"]
+      }
+    ],
+    "ai": [
+      {
+        "name": "Python Docstring & Unit Test Generator",
+        "technology": "OpenAI"
+      },
+      {
+        "name": "Summarize Website",
+        "technology": "OpenAI"
+      },
+      {
+        "name": "Mental Health Chatbot",
+        "technologies": ["RAG", "OpenAI"]
+      },
+      {
+        "name": "Pakistani Law RAG",
+        "technology": "OpenAI"
+      },
+      {
+        "name": "AI Agent – Accent Copy",
+        "technology": "OpenAI SDK"
+      },
+      {
+        "name": "AI Agent – Job Search, Courses & Skills Comparison"
+      },
+      {
+        "name": "AI Customer Support Agent",
+        "technology": "RAG System"
+      },
+      {
+        "name": "Multi-tool AI Agent",
+        "technologies": ["LangGraph", "LangSmith", "LangChain", "Playwright", "Serper", "Pushover", "Calendar"]
+      },
+      {
+        "name": "AI Agent – PowerShell Commands & React Code Generator",
+        "technology": "Crew AI"
+      }
+    ],
+    "links": [
+      "https://ud-three.vercel.app/",
+      "https://blob-hi4q.vercel.app/",
+      "https://devebco.vercel.app/",
+      "https://zajno-neon.vercel.app/",
+      "https://huggingface.co/spaces/talhafewfefefew/Python_Docstring_and_Unit_Test_Generator",
+      "https://huggingface.co/spaces/talhafewfefefew/Summarize_website",
+      "https://huggingface.co/spaces/talhafewfefefew/Mental-Health",
+      "https://huggingface.co/spaces/talhafewfefefew/pakistani-law-rag",
+      "https://huggingface.co/spaces/talhafewfefefew/My-Accent",
+      "https://huggingface.co/spaces/talhafewfefefew/Skill-Job-Advisor",
+      "https://huggingface.co/spaces/talhafewfefefew/EMAIL-SENDER",
+      "https://github.com/talhaumercop/langgraph-agent",
+      "https://github.com/talhaumercop/website-maker-cre"
+    ]
+  },
+  "languages": [
+    {
+      "language": "Urdu",
+      "proficiency": "Native"
+    },
+    {
+      "language": "English",
+      "proficiency": "Fluent"
+    }
+  ]
+}
